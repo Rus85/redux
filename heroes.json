@@ -7,70 +7,10 @@
       "element": "wind"
     },
     {
-      "id": 6,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "id": "bdbf5b83-ffa5-4179-baa5-4ba5b696d881",
+      "name": "qqq",
+      "description": "www",
       "element": "water"
-    },
-    {
-      "id": 7,
-      "name": "Неизвестный герой",
-      "description": "Скрывающийся в тени",
-      "element": "wind"
-    },
-    {
-      "id": "d9dccea2-cb85-4244-bbec-2d76f57c0172",
-      "name": "Rus",
-      "description": "All",
-      "element": "water"
-    },
-    {
-      "id": "cdfd0cdf-6585-4333-84b9-08a6e3adac42",
-      "name": "Ali",
-      "description": "Dangerous",
-      "element": "earth"
-    },
-    {
-      "id": "8b26f176-6f1f-4ed9-8c15-5939c885a377",
-      "name": "www",
-      "description": "qqq",
-      "element": "water"
-    },
-    {
-      "id": "c75df95f-2a66-48ee-b35f-cbebcf829781",
-      "name": "www",
-      "description": "qqq",
-      "element": "wind"
-    },
-    {
-      "id": "3003a201-c2a3-4ff8-9b81-3219555b8602",
-      "name": "rrr",
-      "description": "aaa",
-      "element": "fire"
-    },
-    {
-      "id": "ddf77519-38d7-4caf-b3d7-f712ef1f8a74",
-      "name": "ttt",
-      "description": "yyy",
-      "element": "fire"
-    },
-    {
-      "id": "c888bb98-f77e-42f4-83a8-aafc2e9cc52c",
-      "name": "zzz",
-      "description": "xxx",
-      "element": "water"
-    },
-    {
-      "id": "0b0378b1-b2fb-43e5-9c74-7ceeced417af",
-      "name": "yyy",
-      "description": "xxx",
-      "element": "water"
-    },
-    {
-      "id": "8cff38a1-593f-46e4-ad7d-0161108e933b",
-      "name": "yyy",
-      "description": "xxx",
-      "element": "earth"
     }
   ],
   "filters": [
